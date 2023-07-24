@@ -12,8 +12,6 @@
     "static/media/high_quality.png": "/Web-stage/static/media/high_quality.d2876abb9117415f83e3.png",
     "static/media/icons8-instagram (3).svg": "/Web-stage/static/media/icons8-instagram (3).6f08d55415a2fd700c93de6918a06fe6.svg",
     "static/media/icons8-twitter.svg": "/Web-stage/static/media/icons8-twitter.fe06d572bd13680e66f4d31fc7cf1832.svg",
-    "static/media/home-1 lap.svg": "/Web-stage/static/media/home-1 lap.0d95c33ed95285201028.svg",
-    "static/media/iPad mini 8.3 - 1.svg": "/Web-stage/static/media/iPad mini 8.3 - 1.bf3d085a8a613076c688.svg",
     "static/media/Ellipse 11 (1).svg": "/Web-stage/static/media/Ellipse 11 (1).2a810cc576e73b03a041.svg",
     "static/media/bgtri (1).svg": "/Web-stage/static/media/bgtri (1).bc09de875aa692764047.svg",
     "static/media/icons8-youtube.svg": "/Web-stage/static/media/icons8-youtube.6806408aa1bf55b7f1aaba51978e649e.svg",
@@ -25,5 +23,6 @@
   "entrypoints": [
     "static/css/main.8cd53bf9.css",
     "static/js/main.24d21ea1.js"
+
   ]
 }
