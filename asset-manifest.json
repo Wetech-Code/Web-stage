@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Web-stage/static/css/main.a977f7c9.css",
-    "main.js": "/Web-stage/static/js/main.df96e2bd.js",
+    "main.css": "/Web-stage/static/css/main.8cd53bf9.css",
+    "main.js": "/Web-stage/static/js/main.24d21ea1.js",
     "static/media/pexels-angela-roma-7316967 (1080p).mp4": "/Web-stage/static/media/pexels-angela-roma-7316967 (1080p).981546c3f3b6e3374608.mp4",
     "static/media/HOME.gif": "/Web-stage/static/media/HOME.ab9fb4a44024f70b4502.gif",
     "static/media/output-onlinegiftools.gif": "/Web-stage/static/media/output-onlinegiftools.d268f76abad98657603b.gif",
@@ -17,11 +17,12 @@
     "static/media/icons8-youtube.svg": "/Web-stage/static/media/icons8-youtube.6806408aa1bf55b7f1aaba51978e649e.svg",
     "static/media/icons8-facebook.svg": "/Web-stage/static/media/icons8-facebook.5e1cb4b86ac3f872dadcbde3ed31cd4b.svg",
     "index.html": "/Web-stage/index.html",
-    "main.a977f7c9.css.map": "/Web-stage/static/css/main.a977f7c9.css.map",
-    "main.df96e2bd.js.map": "/Web-stage/static/js/main.df96e2bd.js.map"
+    "main.8cd53bf9.css.map": "/Web-stage/static/css/main.8cd53bf9.css.map",
+    "main.24d21ea1.js.map": "/Web-stage/static/js/main.24d21ea1.js.map"
   },
   "entrypoints": [
-    "static/css/main.a977f7c9.css",
-    "static/js/main.df96e2bd.js"
+    "static/css/main.8cd53bf9.css",
+    "static/js/main.24d21ea1.js"
+
   ]
 }
